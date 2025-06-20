@@ -9,5 +9,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="1-multiply-button" />
+    <orderEntry type="module" module-name="2-subtract-empty" />
   </component>
 </module>
