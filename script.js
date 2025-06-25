@@ -29,3 +29,4 @@ function calculateAndDisplay(fn) {
     .addEventListener('click', () => calculateAndDisplay(window[op]));
 });
 
+
